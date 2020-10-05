@@ -20,7 +20,6 @@ class Backer
   
   def back_project(project)
     @backed_projects = project.title 
-    binding.pry 
   end
 
 
