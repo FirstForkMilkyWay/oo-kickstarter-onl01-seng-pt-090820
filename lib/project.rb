@@ -12,8 +12,8 @@ class Project
     @title
   end 
   
-  def backed_projects 
-    @backed_projects = []
+  def backers 
+    @backers = []
   end 
 
 
